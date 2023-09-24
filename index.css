@@ -1,0 +1,453 @@
+#container1{
+    padding-left: 90px;
+    background-color: rgb(19, 99, 198);
+}
+#container14{
+    padding-left: 80px;
+    background-color: rgb(19, 99, 198);
+    height: 440px;
+}
+.ai{
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+    border-color: white;
+    padding: 8px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.ai1{
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+    border-color: gray;
+    padding: 8px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.ai2{
+    text-decoration: none;
+    color: black;
+    border: 1px solid;
+    border-color: gray;
+    padding: 5px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 138px;
+    margin-left: 600px;
+}
+.img1{
+    width: 540px;
+    margin-left: 95px;
+    margin-top: 60px;
+}
+.img6{
+    width: 360px;
+    margin-left: 150px;
+    margin-top: 42px;
+}
+#par1{
+    width: 524px;
+    margin-top: 70px;
+    margin-left: 5px;
+    text-align: center;
+}
+.hero-h1{
+    font-size: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.img2{
+    width: 520px;
+    border-radius: 20px;
+}
+#container3{
+    padding-top: 80px ;
+    padding-left: 100px;
+    padding-right: 80px;
+    padding-bottom: 90px;
+}
+#par2{
+    width: 550px;
+}
+.h2{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.small{
+    font-weight: bold;
+    font-size: 17px;
+}
+#check{
+    color: blue;
+    font-size: 18px;
+}
+#robot{
+    font-size: 40px;
+    padding-top: 60px;
+    background-color: rgb(244, 247, 254);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#card1{
+   position: relative;
+   bottom: 50px;
+}
+#a2{
+    font-weight: bolder;
+}
+#container4{
+    padding-top: 85px;
+    background-color: rgb(244, 247, 254);
+    padding-left: 100px;
+    padding-bottom: 90px;
+}
+#par3{
+    margin-top: 200px;
+}
+.card{
+    width: 18rem; 
+    height:350px; 
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: blue;
+    color: white;
+}
+#card3:hover{
+    border: 1px solid;
+    border-color: blue;
+    color: white;
+}
+#btn{
+    background-color: rgb(244, 247, 254);
+}
+#check2{
+    font-size: 60px;
+    color: white;
+}
+#check3{
+    background-color: white;
+    color: blue;
+    border-radius: 50%;
+    width: 40px;
+    height: 30px;
+    font-size: 25px;
+}
+#check4{
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 30px;
+    font-size: 25px;
+}
+#feature{
+    border-radius: 15px;
+    height: 90px;
+    padding: 10px;
+    background-color: rgb(28, 28, 240);   
+}
+.img3{
+    width: 520px;
+    margin-top: 110px;
+}
+#container5{
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 80px;
+}
+#cardd{
+    width: 380px;
+    background-image: url("images/project-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    color: white;
+    padding-bottom: 25px;
+}
+#cardd1{
+    width: 380px;
+    background-image: url("images/project-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    color: white;
+}
+#cardd2{
+    width: 380px;
+    background-image: url("images/project-3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-left: 30px;
+    border-radius: 10px;
+    color: white;
+}
+#cardd a{
+    text-decoration: none;
+    color: white;
+}
+#cardd1 a{
+    text-decoration: none;
+    color: white;
+}
+#cardd2 a{
+    text-decoration: none;
+    color: white;
+}
+#entire{
+    padding-left: 70px;
+}
+#container6{
+    padding-top: 80px;
+    background-color: rgb(244, 247, 254);
+    padding-bottom: 100px;
+}
+#container7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-top: 60px;
+}
+#container8{
+    width: 550px;
+}
+.accordion-item{
+    background-color: rgb(244, 247, 254);
+}
+.accordion-item:first-of-type {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.accordion-button{
+    background-color: rgb(244, 247, 254);
+}
+#popu{
+    padding-top: 90px;
+}
+#img4{
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 180px;
+    border-radius: 50%;
+}
+#container9{
+    padding-top: 70px;
+    padding-bottom: 140px;
+    padding-left: 90px;
+    padding-right: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.par4{
+    width: 570px;
+}
+.carousel-control-prev-icon{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 50%;
+    position: relative;
+    right: 95px;
+}
+.carousel-control-next-icon{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 50%;
+    position: relative;
+    right:492px;
+    top: 60px;
+}
+#btn1{
+    border-radius: 50%;
+    background-color: blue;
+    width: 19px;
+    height: 19px;
+}
+.carousel-indicators{
+    position: relative;
+    top: 350px;
+    left: -190px;
+}
+.email{
+    width: 550px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+#container10{
+    padding-top: 40px;
+    background-color: rgb(30, 30, 194);
+}
+#container11{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#container12{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: white;
+}
+#navbar{
+    position: sticky;
+}
+@media(max-width: 768px){
+    #container1{
+        padding-left: 0px;
+    }
+    .hero-h1{
+        font-size: 39px;
+    }
+    .img1{
+        width: 360px;
+        margin-left: 0px;
+    }
+    .img2{
+        width: 380px;
+        border-radius: 20px;
+    }
+    #container3{
+        padding-top: 80px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 90px;
+    }
+    #par2{
+        margin-top: 45px;
+    }
+    .h2{
+        font-size: 25px;
+    }
+    #container4{
+        padding-left: 0px;
+    }
+    #par3{
+        margin-top: 20px;
+    }
+    .card{
+        width: 22rem;
+    }
+    #container15{
+        margin: auto;
+        margin-top: 40px;
+    }
+    #robot{
+        margin: auto;
+        margin-top: 30px;
+    }
+    #container5{
+        padding-left: 10px;
+        padding-right: 15px;
+    }
+    .small{
+        font-weight: bold;
+        font-size: 17px;
+    }
+    #feature{
+        margin-bottom: 20px;
+        width: 350px;
+    }
+    .img3{
+        width: 370px;
+    }
+    .ai2{
+        margin: auto;
+    }
+    #entire{
+        padding-left: 0px;
+        margin-left: 15px;
+    }
+    #cardd{
+        margin-bottom: 40px;
+    }
+    #cardd1{
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+    }
+    #cardd2{
+        padding-bottom: 20px;
+    }
+    #container7{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+    .accordion-item{
+        width: 380px;
+    }
+    #img4{
+        margin: auto;
+        margin-top: 20px;
+    }
+    #container9{
+        padding-left: 10px;
+        padding-right: 10px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .carousel-indicators{
+        position: relative;
+        top: 350px;
+        left: -120px;
+    }
+    .carousel-control-prev-icon{
+        display: none;
+    }
+    .carousel-control-next-icon{
+        display: none;
+    }
+    .img5{
+        width: 350px;
+    }
+    #container10{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .email{
+        width: 350px;
+        height: 50px;
+        border-radius: 20px;
+    }
+    #container11{
+        width: 380px;
+        margin-bottom: 40px;
+    }
+    #container14{
+        padding-left: 0px;
+        height:  582px;
+    }
+    .img6{
+        width: 330px;
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    #container16{
+        text-align: center;
+        margin-top: 80px;
+    }
+}
